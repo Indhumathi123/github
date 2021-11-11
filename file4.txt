@@ -2,4 +2,11 @@ hi this is my practice exercise
 
 saturday
 monday
+<<<<<<< Updated upstream
 tueday
+fgfddsfsdfdsc
+=======
+>>>>>>> Stashed changes
+
+
+new cangesq
